@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+LaosPR or Laos Professional Representative, as just to name my working objective to participate in developing Local Labour.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+LaosPR is not registered nor co-operated with any type of organization, please be aware of using its contents with self-validation of consuming its data.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+###Objective
+To promote and help to create the foundation of making understanding of Information Technology and its products, and LaosPR products.
 
-
-[jekyll-organization]: https://github.com/jekyll
+###Goal
+Make understanding to lead to the selection and pre-budgeting with good use of IT.
